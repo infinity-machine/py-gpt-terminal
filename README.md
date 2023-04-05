@@ -1,6 +1,6 @@
 # Python GPT Wrapper for Terminal
 
-<img src="./img/wotntarnation.jpg" width="30%">\
+<img src="./img/wotntarnation.jpg" width="30%">
 
 Partner this here piece of software lets you chat with GPT-3.5-Turbo!
 ## INSTRUCTIONS
