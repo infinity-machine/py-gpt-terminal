@@ -11,7 +11,7 @@ messages = [{
         "content": "Just do your best you helpful boy you!"
 }]
 
-def __main__():
+def main():
     while True:
         user_input = input('USER: ')
         if user_input.lower() == 'exit':
@@ -32,4 +32,4 @@ def __main__():
             'content': gpt_response
         })
         
-__main__()
+main()
