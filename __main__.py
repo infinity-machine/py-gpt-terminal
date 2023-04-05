@@ -14,7 +14,7 @@ messages = [{
 def main():
     while True:
         user_input = input('USER: ')
-        if user_input.lower() == 'exit':
+        if user_input.lower() in ('exit', 'quit'):
             print('SAYONARA!')
             sys.exit()
         if user_input:
